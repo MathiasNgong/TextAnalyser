@@ -1,0 +1,15 @@
+mngongng 
+Maximum number of probes:4
+Average number of probes:2.500000
+dsa 1 (3)
+love 1 (2)
+must 1 (1)
+you 1 (0)
+--------------------
+Maximum number of probes:3
+Average number of probes:2.000000
+dsa 2 (1)
+love 3 (0)
+must 3 (2)
+you 1 (1)
+--------------------
